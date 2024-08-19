@@ -1,0 +1,7 @@
+a.out
+main.c
+.DS_Store
+.vscode
+*.txt
+*.o
+*.a
